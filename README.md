@@ -129,7 +129,7 @@ A project to build an agent that combines textual question answering with image 
 
 **Purpose:** Design and build your own system based on what you learned in weeks 1 to 5. This can be a product prototype, an internal tool, a research workflow, or the first step toward a startup idea. The hope is that some projects will continue after the cohort, using the connections and community built here.
 
-**Demo date**: November 8, 2025 · 10:00 - 12:00 PM PT
+**Demo date**: November 9, 2025 · 10:00 - 12:00 PM PT
 
 
 ## Reference docs and readings
