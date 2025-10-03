@@ -61,7 +61,7 @@ An introductory project to explore how prompts, tokenization, and decoding setti
 
 **Release Date**: October 4, 2025 · 10:00 AM PT
 
-**Notebook Link:** [Here](https://github.com/aliiaminian/ai-eng-projects/blob/main/project_1/lm_playground.ipynb)  
+**Notebook Link:** [Here](https://github.com/bytebyteai/ai-eng-projects/blob/main/project_1/lm_playground.ipynb)  
 
 **Learning objectives:**
 - Tokenization of raw text into discrete tokens
