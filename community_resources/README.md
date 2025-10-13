@@ -1,7 +1,7 @@
 # 🧠 Community Resources
 
 Welcome! This folder is a shared space where learners in our AI Engineering cohort collect and exchange helpful resources, notes, and references.  
-It’s built by the community, for the community. Feel free to explore, learn, and add your own contributions.
+Feel free to explore, learn, and add your own contributions.
 
 
 ---
