@@ -4,8 +4,6 @@ import os
 import sys
 
 def main():
-    print("Hello from app_test.py!")
-
     # Add the current directory to Python path to import variables from notebook
     sys.path.append('C:/rajesh/docs/personal/career/learning/bytebytegoAI/ai-eng-projects/project_2')
 
@@ -20,9 +18,10 @@ def main():
     st.title("🛍️ Everstorm Customer Support Chatbot")
     st.markdown("Ask me anything about Everstorm Outfitters policies, shipping, returns, and more!")
 
+    print("Globals in my_app.py:", globals().keys())  # Debugging line to check globals
+    
     # Check if required variables are available
-    chain = globals().get('chain', None)
-    if chain is None:
+    if 'chain' not in globals():
         st.error("❌ RAG chain not found! Please run the notebook cells first to initialize the chain.")
         st.stop()
 
@@ -94,3 +93,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# !cd C:/rajesh/docs/personal/career/learning/bytebytegoAI/ai-eng-projects/project_2 && streamlit run my_app.py
