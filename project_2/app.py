@@ -1,3 +1,8 @@
+# To run this, launch a command prompt and activate the 'rag-chatbot' conda environment
+# using conda activate rag-chatbot
+# In the directory containing app.py run: streamlit run app.py
+# Ensure Ollama servers are running
+
 import streamlit as st
 import os
 import sys
